@@ -1,1 +1,1 @@
-SELECT notes FROM northwind.purchase_orders WHERE notes LIKE '%Purchase%';
+SELECT notes FROM purchase_orders WHERE notes LIKE '%Purchase%';
